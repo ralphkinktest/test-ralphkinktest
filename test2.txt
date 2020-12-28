@@ -1,2 +1,2 @@
 Test2 - Text Line 1 - unmodified
-Test2 - Text Line 2 - modified with ralphkink-test
+Test2 - Text Line 2 - modified with ralphkink-test bugfix
