@@ -1,6 +1,6 @@
 Test File
 Version 1.0
 
-Text Line 1 - unmodified
+Text Line 1 - modified with ralphkink ORIG
 Text Line 2 - unmodified
 
